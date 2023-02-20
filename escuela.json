@@ -1,0 +1,39 @@
+{
+	“nombre” : ”TecNM”,
+	“registro” : ”16dti00hc”,
+	“alumnos”:
+    [ 
+		{
+			“nombre” : “juan”,
+			“apellido” : “Perez”,
+			“rfc” : “jpp121802lk1”
+			“noctrl”: “101201”
+		},
+		{
+			“nombre” : “Maria”,
+			“apellido” : “Lopez”,
+			“rfc” : “malop31903lk3”
+			“noctrl”: “101202”
+
+		}
+    ],
+	“personal”:
+    [
+		{
+			“nombre” : “juan”,
+			“apellido” : “Perez”,
+			“rfc” : “jpp121802lk1”
+			“salario”: 100
+			“cédula” : “567498”
+			“categoria” : Docente
+		},
+		{
+			“nombre” : “Luis”,
+			“apellido” : “Cruz”,
+			“rfc” : “jpp121802lk1”
+			“salario”: 90
+			“clave” : “567498”
+			“categoria” : Administrativo
+		}
+    ]
+}
